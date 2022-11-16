@@ -1,6 +1,6 @@
 ## Arm Control 
 ### Getting Started
-It's assumed you already have built and properly wired the [romi arm](https://www.pololu.com/docs/0J76/1). It is also expected that you have a working command scheduler system. Also, make sure you've setup the stuff in the web config UI.
+It's assumed you already have built and properly wired the [romi arm](https://www.pololu.com/docs/0J76/1). It is also expected that you have a working [command scheduler system](https://github.com/camden-git/romi-docs/blob/main/command-scheduler.md). Also, make sure you've setup the stuff in the web config UI.
 
 ### Creating the subsystem 
 Like with the drive train, we need to make a subsystem that allows you to control the servos in the arm, if you've been able to drive your romi, you probably have a file structure that looks a bit like this.
