@@ -5,5 +5,6 @@ made by camden, maybe myles also idk
 ### Quick Directory
 - [Arm Control](https://github.com/camden-git/romi-docs/blob/main/arm.md)
 #### Unfinished
+- [Command Scheduler](https://github.com/camden-git/romi-docs/blob/main/command-scheduler.md)
 - [Tank Drive](https://github.com/camden-git/romi-docs/blob/main/tank-drive.md)
 - [PID Movment Commands](https://github.com/camden-git/romi-docs/blob/main/pid-move.md)
