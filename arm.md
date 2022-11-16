@@ -14,7 +14,7 @@ Like with the drive train, we need to make a subsystem that allows you to contro
 - Robot.java
 - RobotContainer.java
 ```
-However we are missing the ability to control the external IO. Our arm is wired to the external IO which is what allows us to send signals and thus control it. However without the subsystem there is no code that defines that they exist or how the signals should be send. To start, I recommend copying over the drivetrain subsystem and then removing everything but the basic boilerplate. 
+However we are missing the ability to control the external IO. Our arm is wired to the external IO which is what allows us to send signals and thus control it. However without the subsystem there is no code that defines that they exist or how the signals should be sent. To start, I recommend copying over the drivetrain subsystem and then removing everything but the basic boilerplate. 
 ###### *Todo: define "basic boilerplate" better*
 ```
 - commands
@@ -27,7 +27,7 @@ However we are missing the ability to control the external IO. Our arm is wired 
 - Robot.java
 - RobotContainer.java
 ```
-To save you some time, these should be the main inputs that you end up needing, along with the boilerplate imports that you already ahve in your file.
+To save some time, these should be the main imports that you end up needing, along with the boilerplate imports that you already have in your file.
 ```java
 import edu.wpi.first.wpilibj.AnalogInput;
 import edu.wpi.first.wpilibj.DigitalInput;
@@ -46,7 +46,7 @@ Now we need to define what ports to use, this table shows the channel assigned t
 |EXT4|11|5|2|
 |EXT5|12|6|3|
 
-After this, you have to code the subsystem, not much else to say. Here's an expert from our code. You'd have to extend the switch statement and add one for each ext that you are going to need. What you're trying to do is define what "settings" to use based on what EXT is being called. As you can see, we have a switch statement for each EXT, and then depending on what mode *(DIO,PWM,AIN)* is being requested, it defines what "settings'' should be used. There of course is other ways to do this however, this is a pretty good solution and you can of course change it down the road if need be. 
+After this, you have to code the subsystem, not much else to say. Here's bit of our code. You'd have to extend the switch statement and add one for each EXT that you are going to need. What you're trying to do is define what "settings" to use based on what EXT is being called. As you can see, we have a switch statement for each EXT, and then depending on what mode *(DIO,PWM,AIN)* is being requested, it defines what "settings" should be used. There of course is other ways to do this however, this is a pretty good solution and you can of course change it down the road if need be. 
 ```java
 switch (ext0) {
   case DIO:
