@@ -3,7 +3,7 @@
 # romi-docs - banner goes here soon:tm:
 made by camden, maybe myles also idk
 ### Quick Directory
-- [Arm Control](arm)
+- [Arm Control](https://github.com/camden-git/romi-docs/blob/main/arm.md)
 #### Unfinished
-- [Tank Drive](tank-drive)
-- [PID Drive Commands](pid-drive)
+- [Tank Drive](https://github.com/camden-git/romi-docs/blob/main/tank-drive.md)
+- [PID Movment Commands](https://github.com/camden-git/romi-docs/blob/main/pid-move.md)
