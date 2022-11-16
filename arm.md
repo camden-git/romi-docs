@@ -42,6 +42,7 @@ Now we need to defile what ports to use, this table shows the channel assigned t
 |EXT2|10|4|1|
 |EXT4|11|5|2|
 |EXT5|12|6|3|
+
 After this, you basicly just have to code the subsystem, not much else to say. Here's an expert from our code. You'd have to extend the switch statement and add one for each ext that you are going to need.
 ```java
 switch (ext0) {
