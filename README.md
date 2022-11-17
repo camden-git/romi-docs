@@ -2,7 +2,7 @@
 
 # romi-docs - banner goes here soon:tm
 
-made by camden, maybe myles also idk
+made by camden, myles, and now maybe thomas idk
 
 ### Quick Directory
 
