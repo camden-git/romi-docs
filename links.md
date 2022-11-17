@@ -47,4 +47,4 @@ Created by Myles, markdown port by Camden.
 - [RC servo speed control](https://www.pololu.com/blog/22/rc-servo-speed-control)
 - [Continuous-rotation servos and multi-turn servos](https://www.pololu.com/blog/24/continuous-rotation-servos-and-multi-turn-servos)
 
-Have anything to add? Make an issue here.
+Have anything to add? [Make an issue here.](https://github.com/camden-git/romi-docs/issues/new?assignees=&labels=Link+Request&template=add-link.yml)
