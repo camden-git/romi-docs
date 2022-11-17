@@ -13,4 +13,4 @@ Let's take a look at what PID actually looks like, and see it in action on the R
 
 https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/pid-video.html
 https://frc-pdr.readthedocs.io/en/latest/control/pid_control.html
-This 2-part video series was super helpful to me: [part 1] covers why to use pid, what it does, and goes over kP, (https://www.youtube.com/watch?v=jIKBWO7ps0w), [part 2](https://www.youtube.com/watch?v=Z24fSBVJeGs) goes over kI and kD
+This 2-part video series was super helpful to me: [part 1](https://www.youtube.com/watch?v=jIKBWO7ps0w) covers why to use pid, what it does, and goes over kP; [part 2](https://www.youtube.com/watch?v=Z24fSBVJeGs) goes over kI and kD
