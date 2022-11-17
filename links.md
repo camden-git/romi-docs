@@ -33,7 +33,7 @@ Created by Myles, markdown port by Camden.
 
 - [Driving straight](https://frc-pdr.readthedocs.io/en/latest/control/driving_straight.html)
 - [Gyros (turning)](https://frc-pdr.readthedocs.io/en/latest/control/gyro.html)
-- [PID control](https://frc-pdr.readthedocs.io/en/latest/control/pid_control.html) *(this might be a bit to advanced currently)*
+- [PID control](https://frc-pdr.readthedocs.io/en/latest/control/pid_control.html)
 
 ## Arm Control 
 - [Introduction to an introduction to servos](https://www.pololu.com/blog/11/introduction-to-an-introduction-to-servos)
