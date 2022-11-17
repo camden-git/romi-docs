@@ -1,0 +1,23 @@
+name: Add Link to Resources
+description: Think something is missing? Add it here.
+labels: [Link Request]
+body:
+- type: markdown
+  attributes:
+    value: |
+     This should **only** only be used for link requests, not issues. 
+
+- type: textarea      
+  attributes:
+    label: Link(s) to add
+    description: Please provide the link(s) you want to have added
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    description: Please [search here](https://github.com/camden-git/romi-docs/issues) to see if a request has already been made
+    options:
+    - label: I have searched the existing requests before opening this request.
+      required: true
