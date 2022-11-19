@@ -108,6 +108,12 @@ import frc.robot.subsystems.ExternalIO;
 
 And from there you need to make your suppliers. Note: I am use jaws open/closed as a boolean here, for most people it makes sense to make it a double like the rest of them. So make sure to not blindly copy and paste code.
 
+Make sure that you import the Java Supplier function as well.
+
+```java
+import java.util.function.Supplier;
+```
+
 ```java
 private final ExternalIO m_externalIO;
 private final Supplier<Double> m_liftSupplier;
