@@ -1,4 +1,5 @@
 # Arm Control
+
 ## Getting Started
 
 It's assumed you already have built and properly wired the [romi arm](https://www.pololu.com/docs/0J76/1). It is also expected that you have a working [command scheduler system](https://github.com/camden-git/romi-docs/blob/main/command-scheduler.md). Also, make sure you've setup the stuff in the web config UI, however we will go over the web UI config in this doc.
