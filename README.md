@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/camden-git/romi-docs/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/camden-git/romi-docs/main/assets/banner.png" width="100%">
 
 ## Quick Directory
 

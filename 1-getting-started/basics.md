@@ -6,7 +6,7 @@ In this section we will go over how the Romi works, and how your codebase will w
 
 ## How does the Romi work?
 
-<img align="right" src="https://i.imgur.com/CGwzkmx.jpg" width="350">
+<img align="right" src="https://raw.githubusercontent.com/camden-git/romi-docs/main/assets/pi-4.webp" width="350">
 
 The Romi robot is based on the Raspberry Pi, which is a small [ARM](#ARM) based micro computer. The Pi is a green board located at the top of your Romi, this is what allows you to connect and run code. You’ll notice it's plugged in via a long set of pins called GPIO, this is what allows it to communicate with the Romi and get power. 
 
