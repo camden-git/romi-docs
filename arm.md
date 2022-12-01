@@ -47,6 +47,8 @@ import edu.wpi.first.wpilibj.Servo;
 
 Now we need to define what ports to use, this table shows the channel assigned to each EXT channel based on its configuration. This configuration **must be** performed using the web interface to the Romi. In the constructor, you must specify the configuration of each channel. This **MUST** match the configuration created using the web interface. [(View Docs)](https://docs.wpilib.org/en/stable/docs/romi-robot/web-ui.html)
 
+When wiring make sure that the black wire is on the pins marked as ground, and you can ignore the green one. I recommend finding some way to cable manage as it's easy for wires to get tangled in the wheel.
+
 ##### ⚠️ I can NOT stress this enough, make sure this is 100% right
 
 |Channel|DIO| PWM |Analog In|
@@ -137,3 +139,5 @@ public void execute() {
 For isFinished you can just make it return false, it's weird.
 
 ###### *Todo: Explain this better*
+
+At this point you have a command that work's something like your arcade drive command. You'll have to make a second command that interfaces into this. Once you've made the second command you can use it in any schedule like any other command.
