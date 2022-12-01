@@ -12,6 +12,8 @@ The Romi robot is based on the Raspberry Pi, which is a small [ARM](#ARM) based 
 
 Your Raspberry Pi hosts a web control UI, and a service that allows movement commands to be sent. To access this you need to connect to the WiFi network that the Pi hosts. When you connect to the WiFi you can connect to other devices on the WiFI, which includes the Pi. By hosting its own WiFi network more than 1 Romi can be used at one time without hassle. 
 
+<img align="left" src="https://raw.githubusercontent.com/camden-git/romi-docs/main/assets/romi-map.jpg" width="450">
+
 When you run your code, a [websocket](#Websocket) connection is made, which allows it to quickly receive data like position and send movement commands. \
 Note: After hitting something the connection is known to drop, it’s unclear what causes this.
 
