@@ -136,7 +136,8 @@ public void execute() {
 }
 ```
 
-For isFinished you can just make it return false, it's weird.
+For isFinished you can just make it return false. isFinished() is a method that the command scheduler calls to determine whether or not the command should end. When isFinished() returns false, it is perpetual: it does not end (unless it is cancelled because another command that is scheduled requires the same subsystem.)\
+*(Thank you David Muchow for this)*
 
 ###### *Todo: Explain this better*
 
