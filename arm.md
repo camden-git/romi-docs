@@ -139,6 +139,4 @@ public void execute() {
 For isFinished you can just make it return false. isFinished() is a method that the command scheduler calls to determine whether or not the command should end. When isFinished() returns false, it is perpetual: it does not end (unless it is cancelled because another command that is scheduled requires the same subsystem.)\
 *(Thank you David Muchow for this)*
 
-###### *Todo: Explain this better*
-
 At this point you have a command that work's something like your arcade drive command. You'll have to make a second command that interfaces into this. Once you've made the second command you can use it in any schedule like any other command.
