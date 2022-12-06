@@ -21,7 +21,7 @@ Note: After hitting something the connection is known to drop, it’s unclear wh
 
 ### ARM
 
-ARM is a specification called an “architecture”. This defines how the cpu should be built and handle code, this won't ever be very important. ARM is more common in smaller devices like your phone, and pc's often use AMD64/X_86. 
+ARM is a specification called an “architecture”. This defines how the cpu should be built and handle code, this won't ever be very important. ARM is more common in smaller devices like your phone, and PCs often use x86. 
 
 ### Websocket
 
