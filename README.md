@@ -5,6 +5,7 @@
 - [Chapter 1 - Getting Started](https://github.com/camden-git/romi-docs/blob/main/1-getting-started/intro.md)
 
   - [How does the Romi work?](https://github.com/camden-git/romi-docs/blob/main/1-getting-started/basics.md)
+  - [Starting a Project](https://github.com/camden-git/romi-docs/blob/main/1-getting-started/project.md)
 
 - Random stuff
   - [Helpful links](https://github.com/camden-git/romi-docs/blob/main/links.md)
