@@ -6,4 +6,4 @@ Remember, this is all a skill, it's not going to come over night and is best lea
 
 Good Luck!
 
-[Get Started](https://github.com/camden-git/romi-docs/blob/main/1-getting-started/basics.md)
+[Home](https://github.com/camden-git/romi-docs/) | [Next - Get Started](https://github.com/camden-git/romi-docs/blob/main/1-getting-started/basics.md)
