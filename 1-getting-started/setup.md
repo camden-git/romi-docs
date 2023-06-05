@@ -18,7 +18,7 @@ The Romi utilizes a Raspberry Pi for high-level communication with the robot pro
 
 *If you need any assistance or have questions, don't hesitate to reach out to a leader or another team member.*
 
-<img align="right" src="hhttps://raw.githubusercontent.com/camden-git/romi-docs/main/assets/romi-download.webp" width="350">
+<img align="right" src="https://raw.githubusercontent.com/camden-git/romi-docs/main/assets/romi-download.webp" width="350">
 
 1. Download the Romi version of WPILibPi from the [GitHub Romi Release](https://github.com/wpilibsuite/WPILibPi/releases) page. Make sure to choose the Romi version and not the standard release.  
 
