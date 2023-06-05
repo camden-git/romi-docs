@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-In this section, we will go over how the Romi works and how your codebase will be structured. Before you begin, make sure you have a computer with WPILib Visual Studio Code installed. It's also recommended to have a Romi robot, as a Chromebook cannot run WPILib VSC.
+In this section, we will go over how the Romi works and how your codebase will be structured. Before you begin, make sure you have a computer with WPILib Visual Studio Code installed. It's also recommended to have a Romi robot, **a Chromebook cannot run WPILib VSC**.
 
 ## How does the Romi work?
 
