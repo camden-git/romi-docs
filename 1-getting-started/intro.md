@@ -1,8 +1,16 @@
 # Chapter 1 - Getting Started
 
-In this chapter we will go over the basics of FRC terms and how to code your Romi. This chapter is recommended for people who do not already have knowledge in FRC terms and basic WpiLib programming.
+Welcome to Chapter 1 of our guide! Here, we'll cover the fundamentals of FRC terms and how to code your Romi. This chapter is designed for individuals who are new to FRC terms and basic WpiLib/Java programming.
 
-Remember, this is all a skill, it's not going to come over night and is best learned through practice.
+In this chapter, we will:
+
+- Learn FRC/WPIlib/Java terms
+- Learn how to flash an operating system to your Romi
+- Learn how to connect your Romi
+- Build a command scheduler
+- Get your Romi driving autonomously and manually
+
+Keep in mind that we all started with zero knowledge in the beginning. There's no shame in asking questions or making mistakes along the way. Remember, mastering these skills takes time and practice. Don't expect to become an expert overnight. The key is to consistently apply what you learn and embrace the learning process.
 
 Good Luck!
 
