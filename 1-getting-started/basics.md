@@ -14,7 +14,7 @@ The Raspberry Pi hosts a web control UI and a service that allows movement comma
 
 When you run your code, a websocket connection is established, allowing you to quickly receive data like position and send movement commands. Unlike a RoboRio, where the code is uploaded and run on the board itself, the Romi's code is still executed on your PC through the simulator. However, this distinction is not something that will directly affect you.
 
-**Note:** After hitting something, the connection is known to drop, and the cause is unclear.
+**Note:** if you crash the romi the battery falls out.
 
 ## Your codebase
 
